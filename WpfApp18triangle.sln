@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp18triangle", "WpfApp18triangle\WpfApp18triangle.csproj", "{058A9860-6ECD-4349-878A-87581F32DBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058A9860-6ECD-4349-878A-87581F32DBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058A9860-6ECD-4349-878A-87581F32DBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058A9860-6ECD-4349-878A-87581F32DBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058A9860-6ECD-4349-878A-87581F32DBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50CEB32-4F06-49F9-96D7-F2B2021D9F12}
+	EndGlobalSection
+EndGlobal
